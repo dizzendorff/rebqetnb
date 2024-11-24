@@ -3,7 +3,7 @@ html, body {/
 }
 
 body {
-    background-image: url('/signals/assets/background.сю страницу */
+    background-image: url('/assets/background.сю страницу */
     background-repeat: no-repeat; /* Не повторяем изображение */
     display:
 
@@ -17,8 +17,7 @@ body {
     color: #C1AB19;
     display: inline-block;
     animation: float 1.5s ease-in-out infinite;
-    transform-origin: center;
-    -webkit-text-stroke: 0.5px #ffffff; /* Обводка цвета #C1AB19 /
+    transform-origin: center; /* Обводка цвета #C1AB19 /
     text-shadow: 
         0 0 8px rgba(193, 171, 25, 
 .letter:nth-child(3) { animation-delay: 0.2s
