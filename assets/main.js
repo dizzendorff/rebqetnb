@@ -3,8 +3,8 @@ document.addEventListener("DOMC
     const plusButton = document.querySelector('.plus-button');
     const minusButton = document.querySelector('.minus-button');
     
-    const totalTiles = 25; // Всего плиток
-    let tilesToOpen = 0; // Колич
+    const totalTiles = 125; // Всего плиток
+    let tilesToOpen = 20; // Колич
         tile.classL
         Array.from(tileGrid.children).forEach(tile => {
             tile.classList.remove("fade-out");
